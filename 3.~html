@@ -1,0 +1,54 @@
+<html>
+<head>
+ <title>vasia</title>
+</head>
+<body>
+ <p>
+   
+	 <a href =" http://denweb.ru/category/html " target="_blank"><img src="images/img.png" /> </a>
+	 <a href="mailto:prokop.86@bk.ru?subject=Тема сообщения ">Наша почта</a>
+ </p> 
+ <p>
+Для тега <td> так же применяются атрибуты align, bgcolor, width, а так же height (высота ячейки), valign, который устанавливает вертикальное выравнивание содержимого ячейки (значения: top, middle, bottom), а так же атрибуты colspan (устанавливает число ячеек, которые должны быть объединены по горизонтали) и rowspan (устанавливает число ячеек, которые должны быть объединены по вертикали). 
+     <table border="1px"cellspacing="0"cellpadding="10px"width="50%"align="center">
+	    <caption>"Таблица таблиц" </caption>
+		<tr>
+		   <th>
+		   stroka1
+		   
+		   </th>
+		   <th>
+		   stroka2
+		   
+		   </th>
+		   </tr>
+		   <td colspan="2">
+		   barsik
+		   </td>
+		   <td>
+		   pysia
+		 
+		   </td>
+		   <tr>
+		   <td>
+		   bmw
+		   </td>
+		   <td>
+		   ferrari
+		   </td>
+		  </tr>
+		   </TR>
+		   
+		
+		</tr>
+	 
+	 </table>
+	 
+<p>
+ <textarea name="textarea" id="textarea" cols="45" rows="5">Текст по умолчанию</textarea>
+</p>	 
+ 
+ </p>
+	
+</body>
+</html>

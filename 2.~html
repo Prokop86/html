@@ -1,0 +1,37 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" 
+  "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Моя первая веб-страница</title>
+ </head>
+<body>
+<h1 align="center"color="green">Page Html</h1>
+<p>Списки:<br/>
+<ul>
+   <li>van</li>
+   <li>two</li>
+   <li>thre</li>
+ </ul>
+   
+ <ul tupe="circle">
+    <li>yes</li>
+	<li>noy</li>
+<ol>
+  <li>rty</li>
+  <li>kjh</li>
+</ol>	
+</ul>
+<pre>kjhgfddfgh
+dfghjklk
+kjhgffgh
+jhgffghj
+</pre>
+<hr size="11"align="center"noshade="noshade"/>	
+   <p>
+	<a href=https://www.google.com.ua/#gws_rd=ssl>
+	
+	</a>
+	</p>
+</body>
+</html>
